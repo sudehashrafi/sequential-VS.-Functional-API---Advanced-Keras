@@ -1,2 +1,1 @@
-# sequential-VS.-Functional-API---Advanced-Keras
-sequential VS. Functional API - Advanced Keras
+# Advanced Keras - Different APIs (Sequential, Functional, Subclassing)
